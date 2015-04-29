@@ -1,0 +1,14 @@
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\FrontTest.exe.config
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\FrontTest.exe
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\FrontTest.pdb
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\Core.dll
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\Data.dll
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\EntityFramework.dll
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\Core.pdb
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\Data.pdb
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\EntityFramework.xml
+D:\Samples\Test\Test Project\FrontTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\Test\Test Project\FrontTest\obj\Debug\FrontTest.csprojResolveAssemblyReference.cache
+D:\Samples\Test\Test Project\FrontTest\obj\Debug\FrontTest.exe
+D:\Samples\Test\Test Project\FrontTest\obj\Debug\FrontTest.pdb

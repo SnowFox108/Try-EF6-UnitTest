@@ -1,0 +1,12 @@
+D:\Samples\Test\Test Project\Data\bin\Debug\Data.dll.config
+D:\Samples\Test\Test Project\Data\bin\Debug\Data.dll
+D:\Samples\Test\Test Project\Data\bin\Debug\Data.pdb
+D:\Samples\Test\Test Project\Data\bin\Debug\EntityFramework.dll
+D:\Samples\Test\Test Project\Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\Test\Test Project\Data\bin\Debug\EntityFramework.xml
+D:\Samples\Test\Test Project\Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\Test\Test Project\Data\obj\Debug\Data.dll
+D:\Samples\Test\Test Project\Data\obj\Debug\Data.pdb
+D:\Samples\Test\Test Project\Data\obj\Debug\Data.Migrations.InitialCreate.resources
+D:\Samples\Test\Test Project\Data\obj\Debug\Data.csproj.GenerateResource.Cache
+D:\Samples\Test\Test Project\Data\obj\Debug\Data.csprojResolveAssemblyReference.cache

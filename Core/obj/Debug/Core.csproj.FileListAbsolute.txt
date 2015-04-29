@@ -1,0 +1,12 @@
+D:\Samples\Test\Test Project\Core\obj\Debug\Core.csprojResolveAssemblyReference.cache
+D:\Samples\Test\Test Project\Core\bin\Debug\Core.dll.config
+D:\Samples\Test\Test Project\Core\bin\Debug\Core.dll
+D:\Samples\Test\Test Project\Core\bin\Debug\Core.pdb
+D:\Samples\Test\Test Project\Core\bin\Debug\Data.dll
+D:\Samples\Test\Test Project\Core\bin\Debug\EntityFramework.dll
+D:\Samples\Test\Test Project\Core\bin\Debug\EntityFramework.SqlServer.dll
+D:\Samples\Test\Test Project\Core\bin\Debug\Data.pdb
+D:\Samples\Test\Test Project\Core\bin\Debug\EntityFramework.xml
+D:\Samples\Test\Test Project\Core\bin\Debug\EntityFramework.SqlServer.xml
+D:\Samples\Test\Test Project\Core\obj\Debug\Core.dll
+D:\Samples\Test\Test Project\Core\obj\Debug\Core.pdb
